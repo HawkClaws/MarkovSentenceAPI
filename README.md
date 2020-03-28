@@ -7,6 +7,7 @@ WebPage Server:Firebase
 形態素解析後、ニフティクラウドに下記例のようにデータを
 
 Id|Key1|Key2|Key3|Key4|Value
+----|----|----|----|----|----
 1|__NULL_OF_SENTENCE__|__NULL_OF_SENTENCE__|__NULL_OF_SENTENCE__|__NULL_OF_SENTENCE__|ライト
 2|__NULL_OF_SENTENCE__|__NULL_OF_SENTENCE__|__NULL_OF_SENTENCE__|ライト|さん
 3|__NULL_OF_SENTENCE__|__NULL_OF_SENTENCE__|ライト|さん|の
