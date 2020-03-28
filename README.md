@@ -17,6 +17,6 @@ Id|Key1|Key2|Key3|Key4|Value
 9|ww|さすが|ライト|さん|だ
 10|さすが|ライト|さん|だ|__END_OF_SENTENCE__
 
-２．NCMB.csに下記を設定
-		string appKey = アプリケーションキー
-		string clientKey = クライアントキー
+２．NCMB.csに下記を設定  
+	string appKey = アプリケーションキー  
+	string clientKey = クライアントキー  
