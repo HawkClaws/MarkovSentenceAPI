@@ -4,7 +4,7 @@ DataBase:nifcloud
 WebAPI Server:Azure  
 WebPage Server:Firebase
 
-形態素解析後、ニフティクラウドに下記例のようにデータをInsertします。
+モデルデータ(大量のテキストデータ)を形態素解析後、ニフティクラウドに下記例のようにデータをInsertします。
 
 Id|Key1|Key2|Key3|Key4|Value
 ----|----|----|----|----|----
